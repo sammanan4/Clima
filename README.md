@@ -1,6 +1,6 @@
 # clima
 
-Weather App
+Weather Forecast Android Application using Flutter 
 
 ## Getting Started
 
