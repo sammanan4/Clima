@@ -8,7 +8,7 @@ const String CONN = "CONN";
 class NetworkHelper{
 
   /// my openweathermap API key and the API urls
-  String apiKey = '40563006de1da7f66971ffc36988ca68';
+  String apiKey = '';//YOUR API KEY
   String forecastByCoords = 'https://api.openweathermap.org/data/2.5/forecast';
   String currentWeather = 'https://api.openweathermap.org/data/2.5/weather';
   var dataForecast, dataCurrent;
